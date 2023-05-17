@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.logoHead,
+.actionText,
+.heroHead,
+.servicesHead,
+.serviceCardHead,
+.providerHead,
+.downloadHead,
+.testimonialCardHead,
+.personName,
+.articleHead,
+.articlesHead,
+.footerHead {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navLinks,
+.heroParagraph,
+.servicesParagraph,
+.serviceCardDesc,
+.providerParagraph,
+.downloadParagraph,
+.roleParagraph,
+.personParagraph,
+.articleDesc,
+.articleReadMore,
+.footerP {
+    font-family: 'Mulish', sans-serif;
+}
